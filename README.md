@@ -175,6 +175,10 @@ Django==4.0.4
 - **Scale the application** using Docker Swarm or Kubernetes.
 - **Secure the application** with HTTPS and environment variable management.
 
+## **Thanks**
+
+A special shoutout to Abhishek Veeramalla for his incredibly helpful [DevOps playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa). His content was instrumental in guiding me through this process—if you're looking to level up your DevOps skills, I highly recommend checking it out! 🙌
+
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
